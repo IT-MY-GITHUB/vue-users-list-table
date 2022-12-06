@@ -1,5 +1,6 @@
 {
   "name": "vue-user-list-table",
+  "author": "StiveM",
   "version": "0.1.0",
   "private": true,
   "scripts": {
